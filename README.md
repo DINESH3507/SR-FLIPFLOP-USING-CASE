@@ -27,8 +27,7 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, SR flip-flo
  
 By using three variable K-Map, we can get the simplified expression for next state, Qt+1t+1. The three variable K-Map for next state, Qt+1t+1 is shown in the following figure.
 
-![image](https://github.com/naavaneetha/SR-FLIPFLOP-USING-CASE/assets/154305477/473efad6-d70b-4ca7-aeb7-898bbfca319f)
-
+![Screenshot 2024-12-16 093438](https://github.com/user-attachments/assets/52a17602-6b40-4ba8-92f6-397e7d22e053)
  
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=S+R′Q(t)Q(t+1)=S+R′Q(t)
 
